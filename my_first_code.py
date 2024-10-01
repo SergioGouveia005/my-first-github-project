@@ -16,3 +16,7 @@ d = 2
 e = 3
 result = (a*b) + (c**d) - (b%e)
 print(f"({a} * {b}) + ({c} ** {d}) - ({b} % {e}) = {result}")
+
+#Input
+name = input("What is your name? ")
+print(f"Your name is {name}")
